@@ -9,7 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include=".github\workflows\generate-flowchart.yml" />
+    <None Include="src\.github\workflows\generate-flowchart.yml" />
   </ItemGroup>
 
 </Project>
